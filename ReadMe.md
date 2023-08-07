@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a person with strong interpersonal skills and have the ability to get along well with people. I enjoy challenges and look for the creative solutions to the problems. I am fascinated to solve the intricate problems. When I realize a certain problem has been solved, that gives me the best feeling in the world.<br>This curiosity to understand the world has made me highly data driven with experience collaborating with cross functional teams. I seek to leverage my data science and big data skills to apply to the real-world problems to help me translate the business requirements and provide actionable insights.
+As a data scientist, I'm curious about the world through data. I love figuring out complicated issues. Working with cross-functional teams has helped me build a data-driven mentality and data science and big data abilities. I want to apply my skills to real-world situations and turn difficult business needs into actionable insights. Data discovery excites me. I'm good at collaborating and developing relationships.
+
+I am eager to contribute to cutting-edge projects in the field of data science and machine learning, constantly expanding my knowledge and staying up to date with the latest advancements. Together, let's unravel the power of data and make a meaningful impact in the world."
 
 
 ## 🌐 Socials:
