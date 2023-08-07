@@ -1,7 +1,7 @@
 # 💫 About Me:
 As a data scientist, I'm curious about the world through data. I love figuring out complicated issues. Working with cross-functional teams has helped me build a data-driven mentality and data science and big data abilities. I want to apply my skills to real-world situations and turn difficult business needs into actionable insights. Data discovery excites me. I'm good at collaborating and developing relationships.
 
-I am eager to contribute to cutting-edge projects in the field of data science and machine learning, constantly expanding my knowledge and staying up to date with the latest advancements. Together, let's unravel the power of data and make a meaningful impact in the world."
+I am eager to contribute to cutting-edge projects in the field of data science and machine learning, constantly expanding my knowledge and staying up to date with the latest advancements. Together, let's unravel the power of data and make a meaningful impact in the world.
 
 
 ## 🌐 Socials:
