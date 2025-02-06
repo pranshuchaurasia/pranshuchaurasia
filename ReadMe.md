@@ -45,11 +45,6 @@ I'm a Data Scientist specializing in Document Intelligence and Large Language Mo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-## 🎓 Projects
-- 🤖 **Humanoid Head Design**: Implemented EmotionNet on Jetson Nano for real-time emotion recognition
-- 🔍 **Document Intelligence**: Developed multimodal document processing pipelines using vision transformers
-- 📊 **Predictive Analytics**: Built an XGBoost-based system achieving 99.6% accuracy
-
 ## 🌍 Beyond Tech
 - 👥 Active volunteer in community development initiatives
 - 📚 Continuous learner in AI and Data Science
@@ -63,8 +58,6 @@ I'm a Data Scientist specializing in Document Intelligence and Large Language Mo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranshuchaurasia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchaurasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranshuchaurasia&icon=0&color=0)](https://visitcount.itsvg.in)
