@@ -1,48 +1,59 @@
 # 👋 Hey there, I'm Pranshu!
 
 ## 💫 About Me
-I'm a Data Scientist with a passion for unraveling complex problems through data. When I'm not diving into data, you'll find me:
-- 🤖 Tinkering with ML models and exploring the latest in AI
-- 🌱 Learning about new technologies and frameworks
-- 🎯 Contributing to open-source projects
-- 🤝 Collaborating with amazing people in the tech community
-- 🌍 Volunteering for social causes and community development
+I'm a Data Scientist specializing in Document Intelligence and Large Language Models. My work focuses on building robust document processing pipelines using vision transformers and developing efficient information retrieval systems. I'm particularly passionate about:
+- 📄 Document AI and multimodal transformers
+- 🔍 Information retrieval and indexing systems
+- 🤖 LLM reasoning and Chain of Thought approaches
+- 🌱 Exploring new architectures in vision transformers
 
-## 🎯 What I'm Up To
-- 🔭 Working with cutting-edge LLMs and RAG pipelines
-- 🌱 Exploring Vision Transformers and Document AI
-- 👯 Looking to collaborate on interesting ML/AI projects
-- 💬 Always happy to chat about Data Science, ML, and AI!
+## 🎯 Current Focus
+- 🧠 Experimenting with reasoning models (DeepSeek-R1)
+- 📚 Improving document indexing and retrieval systems
+- 🔄 Chain of Thought implementations
+- 🖼️ Vision transformer architectures for document understanding
 
 ## 🛠️ Tech Stack
 
-### Languages & ML Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+### Document Intelligence & Vision
+- 🔍 Vision Transformers (LayoutXLM, DiT)
+- 📄 Document Layout Analysis
+- 🎯 Object Detection Models
+- 👁️ CNN Architectures
+- 📝 OCR & Text Extraction
 
-### ML/AI Tools
+### NLP & LLMs
+- 🤖 RAG Pipelines (LlamaIndex, LangChain)
+- 💡 Prompt Engineering
+- 🔄 Chain of Thought Implementations
+- 📊 Vector Stores (Qdrant, FAISS)
+- 🎯 PEFT & Model Fine-tuning
+
+### ML Frameworks & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-### Cloud & Tools
+### Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
-### Databases
+### Languages & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-## 🎓 Notable Projects
-- 🤖 **Low-Cost Humanoid Head Design**: Created a unique humanoid robot head with emotion perception capabilities using FACS and Symbolic Head Method
-- 🚛 **Air Pressure System Analysis**: Developed a predictive maintenance system for Scania trucks using XGBoost
-- 🗣️ **Customer Feedback Analysis**: Built an end-to-end feedback analysis system using Azure AI capabilities
+## 🎓 Projects
+- 🤖 **Humanoid Head Design**: Implemented EmotionNet on Jetson Nano for real-time emotion recognition
+- 🔍 **Document Intelligence**: Developed multimodal document processing pipelines using vision transformers
+- 📊 **Predictive Analytics**: Built an XGBoost-based system achieving 99.6% accuracy
+
+## 🌍 Beyond Tech
+- 👥 Active volunteer in community development initiatives
+- 📚 Continuous learner in AI and Data Science
+- 🌱 Interested in technology for social impact
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshuchaurasia)
