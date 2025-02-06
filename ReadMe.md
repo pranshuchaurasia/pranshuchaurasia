@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Pranshu!
 
 ## 💫 About Me
-I'm a Data Scientist specializing in Document Intelligence and Large Language Models. My work focuses on building robust document processing pipelines using vision transformers and developing efficient information retrieval systems. I'm particularly passionate about:
+I'm a Data Scientist specializing in Document Intelligence and Large Language Models. My work focuses on building robust document processing pipelines and developing efficient information retrieval systems. I'm particularly passionate about:
 - 📄 Document AI and multimodal transformers
 - 🔍 Information retrieval and indexing systems
 - 🤖 LLM reasoning and Chain of Thought approaches
-- 🌱 Exploring new architectures in vision transformers
+- 🌱 Exploring new architectures in RAG design patterns
 
 ## 🎯 Current Focus
 - 🧠 Experimenting with reasoning models (DeepSeek-R1)
@@ -15,39 +15,53 @@ I'm a Data Scientist specializing in Document Intelligence and Large Language Mo
 
 ## 🛠️ Tech Stack
 
-### Document Intelligence & Vision
-- 🔍 Vision Transformers (LayoutXLM, DiT)
-- 📄 Document Layout Analysis
-- 🎯 Object Detection Models
-- 👁️ CNN Architectures
-- 📝 OCR & Text Extraction
+### Languages
+- 🐍 Python
+- 📊 SQL
 
 ### NLP & LLMs
-- 🤖 RAG Pipelines (LlamaIndex, LangChain)
+- 🤖 RAG Pipelines
+- 🧠 LLMs (Open source and Closed source)
 - 💡 Prompt Engineering
-- 🔄 Chain of Thought Implementations
-- 📊 Vector Stores (Qdrant, FAISS)
-- 🎯 PEFT & Model Fine-tuning
+- 🎯 Fine-tuning (PEFT, LoRA)
+- 🔄 RLHF
 
-### ML Frameworks & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+### ML/AI Frameworks
+- 🔥 PyTorch
+- ⚡ TensorFlow
+- 📚 Scikit-learn
+- 🔗 LangChain
+- 📖 LlamaIndex
+
+### Vector Databases
+- 🔍 Qdrant
+- 🎯 Vespa
+- 📊 FAISS
+- 💾 PostgreSQL
+- 🍃 MongoDB
 
 ### Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+- ☁️ AWS
+- 🔷 Azure AI Studio
+- ⚡ Azure Functions
+- 🐳 Docker
+- 📂 Git
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+### Computer Vision
+- 📄 Document Layout Analysis
+- 📝 OCR
+- 🎯 Object Detection
+- 👁️ Vision Transformers
+- 🧠 CNN
+
+### Core Skills
+- 📈 Statistics
+- 🔬 Scientific Research
+- 🤖 Supervised Learning
+- 🎯 Unsupervised Learning
 
 ## 🌍 Beyond Tech
 - 👥 Active volunteer in community development initiatives
-- 📚 Continuous learner in AI and Data Science
 - 🌱 Interested in technology for social impact
 
 ## 📫 Let's Connect!
@@ -57,7 +71,6 @@ I'm a Data Scientist specializing in Document Intelligence and Large Language Mo
 ![](https://github-readme-stats.vercel.app/api?username=pranshuchaurasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranshuchaurasia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchaurasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranshuchaurasia&icon=0&color=0)](https://visitcount.itsvg.in)
