@@ -1,76 +1,46 @@
-# 👋 Hey there, I'm Pranshu!
+# Pranshu Chaurasia
+### Data Scientist — Responsible & Applied AI Research @ SocGen AI
 
-## 💫 About Me
-I'm a Data Scientist specializing in Document Intelligence and Large Language Models. My work focuses on building robust document processing pipelines and developing efficient information retrieval systems. I'm particularly passionate about:
-- 📄 Document AI and multimodal transformers
-- 🔍 Information retrieval and indexing systems
-- 🤖 LLM reasoning and Chain of Thought approaches
-- 🌱 Exploring new architectures in RAG design patterns
+Specializing in **Document Intelligence** and **Large Language Models**. I build end-to-end AI solutions for complex document processing, RAG systems, and information retrieval at scale.
 
-## 🎯 Current Focus
-- 🧠 Experimenting with reasoning models (DeepSeek-R1)
-- 📚 Improving document indexing and retrieval systems
-- 🔄 Chain of Thought implementations
-- 🖼️ Vision transformer architectures for document understanding
+## About Me
 
-## 🛠️ Tech Stack
+I am a Data Scientist at **SocGen AI**, focused on accelerating AI integration to automate and optimize banking processes. My work emphasizes responsible AI deployment, regulatory compliance (EU AI Act), and building innovative solutions with a strong focus on operational efficiency.
 
-### Languages
-- 🐍 Python
-- 📊 SQL
+My core expertise involves:
+- **Document AI**: Multimodal transformers and layout analysis.
+- **Information Retrieval**: Enterprise-grade indexing systems and vector search.
+- **Generative AI**: LLM reasoning, Chain of Thought approaches, and RAG architectures.
 
-### NLP & LLMs
-- 🤖 RAG Pipelines
-- 🧠 LLMs (Open source and Closed source)
-- 💡 Prompt Engineering
-- 🎯 Fine-tuning (PEFT, LoRA)
-- 🔄 RLHF
+## Technical Skills
 
-### ML/AI Frameworks
-- 🔥 PyTorch
-- ⚡ TensorFlow
-- 📚 Scikit-learn
-- 🔗 LangChain
-- 📖 LlamaIndex
+**Languages**
+- Python, SQL
 
-### Vector Databases
-- 🔍 Qdrant
-- 🎯 Vespa
-- 📊 FAISS
-- 💾 PostgreSQL
-- 🍃 MongoDB
+**NLP & LLMs**
+- RAG Architectures, LLMOps
+- Prompt Engineering, Fine-tuning (PEFT, LoRA), RLHF
+- Frameworks: LangChain, LlamaIndex
 
-### Cloud & MLOps
-- ☁️ AWS
-- 🔷 Azure AI Studio
-- ⚡ Azure Functions
-- 🐳 Docker
-- 📂 Git
+**Machine Learning & Frameworks**
+- PyTorch, TensorFlow, Scikit-learn
+- Computer Vision: Document Layout Analysis, OCR, Vision Transformers (ViT), YOLO
 
-### Computer Vision
-- 📄 Document Layout Analysis
-- 📝 OCR
-- 🎯 Object Detection
-- 👁️ Vision Transformers
-- 🧠 CNN
+**Data Infrastructure & MLOps**
+- Vector Databases: Qdrant, Vespa, FAISS, PostgreSQL
+- Cloud & Operations: AWS, Azure AI Studio, Docker, Git
 
-### Core Skills
-- 📈 Statistics
-- 🔬 Scientific Research
-- 🤖 Supervised Learning
-- 🎯 Unsupervised Learning
+## Current Focus
 
-## 🌍 Beyond Tech
-- 👥 Active volunteer in community development initiatives
-- 🌱 Interested in technology for social impact
+- Experimenting with reasoning models and advanced inference strategies.
+- Improving efficiency in document indexing and retrieval systems.
+- Exploring multimodal architectures for enhanced document understanding.
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshuchaurasia)
+## Connect
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pranshuchaurasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranshuchaurasia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchaurasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- [LinkedIn](https://linkedin.com/in/pranshuchaurasia)
+- [Portfolio](https://pranshuchaurasia.github.io)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranshuchaurasia&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranshuchaurasia&theme=transparent&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchaurasia&theme=transparent&hide_border=true&layout=compact)
